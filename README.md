@@ -36,9 +36,9 @@ classDiagram
         -News[] news
     }
 
-    User --> Account : "has"
-    User --> Feature : "has"
-    User --> Card : "has"
-    User --> News : "has"
+    User "1"-- "1"Account 
+    User "1"--"N"Feature 
+    User "1"--"1"Card 
+    User "1"--"N" News 
 
 ```
