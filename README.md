@@ -33,12 +33,21 @@ Este projeto utiliza as seguintes tecnologias:
 
 > Atualmente, cerca de 80% das funcionalidades estão implementadas.
 
-## Autor
-### Marco Antônio
 
-Desenvolvedor Full-Stack
+##  Autor
+<h2>Marco Antônio</h2>
 
-[GitHub](https://github.com/marcosynky) | [LinkedIn](https://www.linkedin.com/in/marco-antônio-developer-fullstack)
+<p>Desenvolvedor Full-Stack </p>
+
+<p>
+  <a href="https://github.com/marcosynky" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+<a href="https://www.linkedin.com/in/marco-antônio-developer-fullstack" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</p>
 
 ## 📱 Funcionalidades
 
