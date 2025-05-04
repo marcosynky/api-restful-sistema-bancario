@@ -47,27 +47,6 @@ Desenvolvedor Full-Stack
 - Recuperação de saldo e histórico de transações.
 - API RESTful para integração com front-end ou outras plataformas.
 
-## 🛠️ Como Rodar o Projeto
-
-### Pré-requisitos
-
-1. **Java 17**: Certifique-se de ter o Java 17 ou superior instalado no seu sistema.
-   - [Instalar Java](https://www.oracle.com/java/technologies/javase-jdk17-downloads.html)
-
-2. **Gradle**: O projeto utiliza o Gradle para gerenciar as dependências e o processo de build.
-   - [Instalar Gradle](https://gradle.org/install/)
-
-3. **Banco de Dados PostgreSQL**: Utilize o PostgreSQL ou um banco de dados em memória (H2) para rodar o projeto.
-
-### Passos para rodar o projeto
-
-1. Clone o repositório para sua máquina local:
-
-```bash
-git clone https://github.com/marcosynky/api-bancaria.git
-
- 
-
  ## Diagrama de Classes
  
  
@@ -109,3 +88,26 @@ classDiagram
     User "1"--"N" News 
 
 ```
+
+
+## 🛠️ Como Rodar o Projeto
+
+### Pré-requisitos
+
+1. **Java 17**: Certifique-se de ter o Java 17 ou superior instalado no seu sistema.
+   - [Instalar Java](https://www.oracle.com/java/technologies/javase-jdk17-downloads.html)
+
+2. **Gradle**: O projeto utiliza o Gradle para gerenciar as dependências e o processo de build.
+   - [Instalar Gradle](https://gradle.org/install/)
+
+3. **Banco de Dados PostgreSQL**: Utilize o PostgreSQL ou um banco de dados em memória (H2) para rodar o projeto.
+
+### Passos para rodar o projeto
+
+1. Clone o repositório para sua máquina local:
+
+```bash
+git clone https://github.com/marcosynky/api-bancaria.git
+
+ 
+
