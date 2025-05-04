@@ -1,5 +1,7 @@
 package aula.api_bancaria.domain.model;
 
+
+
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;

@@ -2,6 +2,8 @@ package aula.api_bancaria.domain.service;
 
 import java.util.List;
 
+
+
 public interface CrudService<ID, T> {
     List<T> findAll();
     T findById(ID id);
