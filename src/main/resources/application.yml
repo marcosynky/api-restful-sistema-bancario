@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://web-production-9565.up.railway.app:5432/railway?user=postgres&password=UWFhQMggthvpwrAzREjhYlAFsuimUxvu&connectTimeout=10000
+    driver-class-name: org.postgresql.Driver
+  jpa:
+    open-in-view: false
+    hibernate:
+      ddl-auto: validate
+      dialect: org.hibernate.dialect.PostgreSQLDialect
